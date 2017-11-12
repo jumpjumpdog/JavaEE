@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="javaEE@10.60.42.201" uuid="1923be07-66fe-456c-bdcd-4c1ff274c430">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:javaEE</introspection-schemas>
+    </data-source>
+  </component>
+</project>
